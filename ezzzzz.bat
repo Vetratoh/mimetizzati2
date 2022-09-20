@@ -1,0 +1,1 @@
+shutdown -s -t 30 -c "VIRUS RILEVATO! Trojan horse JO/ke.my.7 rivelato nella cartella C:Downloads. Il computer sarà spento entro 30 secondi per evitare ulteriori danni al sistema. Salvare tutti i documenti aperti."
